@@ -30,8 +30,23 @@ Wait a bit, access challenge via `ip:port` 🏁
 
 <br>
 
-## Challenge
 
+## Challenge
+## Forensic
+
+
+### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ EASY ]-**</p>
+| Name       | Description                                                                                       | 
+|------------|---------------------------------------------------------------------------------------------------|
+| Baby For   |  Find flag                                                                                        | 
+| Garbage collection        |  Wireshark will help you find my secret                                            | 
+| Rar file   |  Use the_diff.txt to find flag                                                                    | 
+| Reverse world    |  You can do it! Get on                                                                      |
+| Secret message    |  Someone send me a message. Can you read it?                                               |
+
+## Crypto
+
+## Web
 
 **<p align="center">🎉 Please don't read solution til you can't suffer anymore...🎉</p>**
 
@@ -42,7 +57,7 @@ Wait a bit, access challenge via `ip:port` 🏁
 | Auth       |  JS always make people feel puzzled. Are you one of them?                                         | 8001 |js obfuscator |
 | PHP        |  PHP for fun                                                                                      | 8002 |              |
 | PHP1       |  Easy to get flag                                                                                 | 8003 |              |
-| Prophet    |  Tran Dan bói toán                                                                                | 8004 |python request|
+| Prophet    |  Trần Dần bói toán                                                                                | 8004 |python request|
 
 
 
