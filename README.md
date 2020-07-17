@@ -58,6 +58,12 @@ Wait a bit, access challenge via `ip:port` 🏁
 | PHP        |  PHP for fun                                                                                      | 8002 |              |
 | PHP1       |  Easy to get flag                                                                                 | 8003 |              |
 | Prophet    |  Trần Dần bói toán                                                                                | 8004 |python request|
+| Login      |  update later                                                                                     |  x   |SQL Injection |
+| ASEAN Community      |  update later                                                                           |  x   |SQL Injection|
+| Fall in love      |  update later                                                                              |  x   |Path Traversal   |
+
+
+
 
 
 
