@@ -54,10 +54,12 @@ Wait a bit, access challenge via `ip:port` 🏁
 ### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ EASY ]-**</p>
 | Name       | Description                                                                                       | Port |     Type     |
 |------------|---------------------------------------------------------------------------------------------------|------|--------------|
-| Auth       |  JS always make people feel puzzled. Are you one of them?                                         | 8001 |js obfuscator |
+| Auth       |  JS always make people feel puzzled. Are you one of them?                                         | 8001 |JS obfuscator |
 | PHP        |  PHP for fun                                                                                      | 8002 |              |
 | PHP1       |  Easy to get flag                                                                                 | 8003 |              |
-| Prophet    |  Trần Dần bói toán                                                                                | 8004 |python request|
+| Prophet    |  Trần Dần bói toán                                                                                | 8004 |Python request|
+| MD5 Checksum|  by K0m4ng4130                                                                                   | 8005 |Command Injection|
+| My club    |  by spl4yer                                                                                       | 8006 |LFI           |
 | Login      |  update later                                                                                     |  x   |SQL Injection |
 | ASEAN Community      |  update later                                                                           |  x   |SQL Injection|
 | Fall in love      |  update later                                                                              |  x   |Path Traversal   |
