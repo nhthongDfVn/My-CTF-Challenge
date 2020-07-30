@@ -51,7 +51,7 @@ Wait a bit, access challenge via `ip:port` 🏁
 **<p align="center">🎉 Please don't read solution til you can't suffer anymore...🎉</p>**
 
 
-### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ EASY ]-**</p>
+### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ :)) ]-**</p>
 | Name       | Description                                                                                       | Port |     Type     |
 |------------|---------------------------------------------------------------------------------------------------|------|--------------|
 | Auth       |  JS always make people feel puzzled. Are you one of them?                                         | 8001 |JS obfuscator |
@@ -61,26 +61,18 @@ Wait a bit, access challenge via `ip:port` 🏁
 | MD5 Checksum|  by K0m4ng4130                                                                                   | 8005 |Command Injection|
 | My club    |  by spl4yer                                                                                       | 8006 |LFI           |
 | Login      |  update later                                                                                     |  x   |SQL Injection |
-| ASEAN Community      |  update later                                                                           |  x   |SQL Injection|
-| Fall in love      |  update later                                                                              |  x   |Path Traversal   |
+| ASEAN Community      |  update later                                                                           |  x   |SQL Injection |
+| Fall in love      |  Listen music with meeeeeee?                                                               | 8009 |Path Traversal|
+| CMP Login      |  update later                                                                                 |  x   |              |
+| Login Login Longin   |  update later                                                                           |  x   |              |
+| PIS Blog      |  update later                                                                                  |  x   |              |
+| Welcome       |  update later                                                                                  |  x   |              |
+| If (location==Vietnam) die(Covid)|  update later                                                               |  x   |              |
 
 
 
 
 
-
-### <p align="center"><img src="https://i.imgur.com/jiFKi3q.png"><br>**=[ MEDIUM ]=**</p>
-| Name          | Description                                                                                                 | Port | Type                                              |
-|---------------|-------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------|
-|               |                                                                                                             |      |      |
-
-
-
-
-### <p align="center"><img src="https://i.imgur.com/XEuOoul.png"><br>**-=[ HARD ]=-**</p>
-| Name           | Description                                                                                                                | Port | Type                                              |
-|----------------|----------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------|
-|                |                                                                                                                            |      |       |
 
 ## Support
 - If you encounter any problems feel free to contact me via nhthong.dfvn@gmail.com
