@@ -63,11 +63,23 @@ Wait a bit, access challenge via `ip:port` 🏁
 | Login      |  update later                                                                                     |  x   |SQL Injection |
 | ASEAN Community      |  update later                                                                           |  x   |SQL Injection |
 | Fall in love      |  Listen music with meeeeeee?                                                               | 8009 |Path Traversal|
-| CMP Login      |  update later                                                                                 |  x   |              |
-| Login Login Longin   |  update later                                                                           |  x   |              |
-| PIS Blog      |  update later                                                                                  |  x   |              |
-| Welcome       |  update later                                                                                  |  x   |              |
-| If (location==Vietnam) die(Covid)|  update later                                                               |  x   |              |
+| CMP Login      |  Who is Impostor                                                                              | 8010 |Type Juggling |
+| Login Login Longin   |  Câu chuyện buồn của Hà Lan                                                             | 8011 |Logic bug     |
+| PIS Blog      |  Thử tìm xem nha                                                                               | 8012 |LFI +Blind SQL Injection|
+| Welcome       |  tìm nhức đầu lắm                                                                              | 8013 |              |
+| If (location==Vietnam) die(Covid)|  Hãy trả tiền để mua source                                                 | 8014 |Command Injection + Template Injection|
+
+
+## Sưu tầm
+
+**<p align="center">🎉 Vài bài CTF trong các cuộc thi mình đã tham gia và cảm thấy hay...🎉</p>**
+
+
+### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ :)) ]-**</p>
+| Name       | Contest Name                 | Port | Link CTFTime |
+|------------|------------------------------|------|--------------|
+|    x       |           x                  |      |              |
+
 
 
 

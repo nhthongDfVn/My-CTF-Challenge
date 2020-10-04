@@ -1,0 +1,8 @@
+version: '2'
+services:
+    web:
+        build: ./python
+        ports:
+            - "8014:8010"
+        volumes:
+            - ./src:/code
