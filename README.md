@@ -64,10 +64,15 @@ Wait a bit, access challenge via `ip:port` 🏁
 | ASEAN Community      |  update later                                                                           |  x   |SQL Injection |
 | Fall in love      |  Listen music with meeeeeee?                                                               | 8009 |Path Traversal|
 | CMP Login      |  Who is Impostor                                                                              | 8010 |Type Juggling |
-| Login Login Longin   |  Câu chuyện buồn của Hà Lan                                                             | 8011 |Logic bug     |
+| Login Login Longin   |  Câu chuyện buồn của Hà Lan (Sưu tầm)                                                   | 8011 |Logic bug     |
 | PIS Blog      |  Thử tìm xem nha                                                                               | 8012 |LFI +Blind SQL Injection|
 | Welcome       |  tìm nhức đầu lắm                                                                              | 8013 |              |
 | If (location==Vietnam) die(Covid)|  Hãy trả tiền để mua source                                                 | 8014 |Command Injection + Template Injection|
+| New blog      |  prepare for PISCTF 2020 - Comming soon                                                        |  x   |              |
+| File storage  |  prepare for PISCTF 2020 - Comming soon                                                        |  x   |              |
+| First Spring  |  prepare for PISCTF 2020 - Comming soon                                                        |  x   |              |
+| SQL for fun   |  prepare for PISCTF 2020 - Comming soon                                                        |  x   |              |
+| I'm robot     |  prepare for PISCTF 2020 - Comming soon                                                        |  x   |              |
 
 
 ## Sưu tầm
