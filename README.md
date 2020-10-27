@@ -82,10 +82,11 @@ Wait a bit, access challenge via `ip:port` 🏁
 
 
 ### <p align="center"><img src="https://i.imgur.com/p5WFB8A.png"><br>**-[ :)) ]-**</p>
-| Name       | Contest Name                 | Port | Link CTFTime |
+| Name       | Contest Name                 | Port | Link WU      |
 |------------|------------------------------|------|--------------|
 | Shrine     |  TokyoWesterns CTF 4th 2018  |      | https://ctftime.org/task/6505 |
-
+| web-panda facts|  redpwnCTF 2020          |      | https://ctftime.org/task/12100 |
+| web-panda facts 2|  redpwnCTF 2020        |      | https://ctftime.org/task/12113 |
 
 
 
