@@ -60,8 +60,8 @@ Wait a bit, access challenge via `ip:port` 🏁
 | Prophet    |  Trần Dần bói toán                                                                                | 8004 |Python request|
 | MD5 Checksum|  by K0m4ng4130                                                                                   | 8005 |Command Injection|
 | My club    |  by spl4yer                                                                                       | 8006 |LFI           |
-| Login      |  update later                                                                                     |  x   |SQL Injection |
-| ASEAN Community      |  update later                                                                           |  x   |SQL Injection |
+| Login      |  login as admin to have flag                                                                      | 8007 |SQL Injection |
+| ASEAN Community      |  find hidden secret                                                                     | 8008 |SQL Injection |
 | Fall in love      |  Listen music with meeeeeee?                                                               | 8009 |Path Traversal|
 | CMP Login      |  Who is Impostor                                                                              | 8010 |Type Juggling |
 | Login Login Longin   |  Câu chuyện buồn của Hà Lan (Sưu tầm)                                                   | 8011 |Logic bug     |
