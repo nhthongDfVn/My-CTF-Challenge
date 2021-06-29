@@ -46,6 +46,15 @@ Wait a bit, access challenge via `ip:port` 🏁
 
 ## Crypto
 
+
+| Name       | Description                                                                                       |     Type   | 
+|------------|---------------------------------------------------------------------------------------------------|------------|   
+| Crypto1    |  Simple xor                                                                                       | Repeated xor|
+| Crypto2    |  base..                                                                                           | base16,32,64,85 decode|
+| HLE        |  Read flag.txt                                                                                    | Hash length extension attack|
+
+
+
 ## Web
 
 **<p align="center">🎉 Please don't read solution til you can't suffer anymore...🎉</p>**
