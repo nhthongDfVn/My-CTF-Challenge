@@ -77,7 +77,7 @@ Wait a bit, access challenge via `ip:port` 🏁
 | PIS Blog      |  Thử tìm xem nha                                                                               | 8012 |LFI +Blind SQL Injection|
 | Welcome       |  tìm nhức đầu lắm                                                                              | 8013 |              |
 | If (location==Vietnam) die(Covid)|  Hãy trả tiền để mua source                                                 | 8014 |Command Injection + Template Injection|
-| Máy tính siêu cấp vip pro|  ANHTOICTF | Đọc flag.txt                                                           | 8015 | Eval         |
+| Máy tính siêu cấp vip pro|  ANHTOICTF- Đọc flag.txt                                                           | 8015 | Eval         |
 | Chall 4       |  flag có 2 phần                                                                                | 8016 | SQL+ LFI     |
 | Replace Tool  |  bạn có thể dùng regex                                                                         | 8017 | Timebased regex injection|
 | Vietlott      |  Mua số liền tay, vận may sẽ tới                                                               | 8018 | Header() injection|
